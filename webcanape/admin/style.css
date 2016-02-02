@@ -1,0 +1,15 @@
+.show{
+  color: #000000;
+  font: boild;
+}
+.hide{
+  color: #AAAAAA;
+}
+table{
+  border-left:  1px dotted black;
+  border-top:  1px dotted black;
+}
+td{
+  border-right: 1px dotted black;
+  border-bottom: 1px dotted black;
+}
